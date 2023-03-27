@@ -1,3 +1,7 @@
+/*
+ * Partner1: KARIN EL KAHLA
+ * Partner2: KELVIN OLIVER PITT
+ */
 #include "main.h"
 
 /****************** PRINT POINTER ******************/
