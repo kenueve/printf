@@ -1,6 +1,6 @@
 # 0x11. C -printf
 ---
-## This is a team project done by EL KAHLA KARIM & ASHRAF MEZZIOUI.
+## This is a team project done by EL KAHLA KARIM & KELVIN OLIVER PITT.
 ---
 ### Tasks:
 ---
